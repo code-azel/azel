@@ -1,0 +1,3 @@
+#Greets
+
+print("Hello Azel!")
